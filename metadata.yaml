@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edith_Wharton
     - http://en.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37990#Sous-la-neige
 gutenberg_bookshelf:
 - FR Littérature
 - FR Femmes
